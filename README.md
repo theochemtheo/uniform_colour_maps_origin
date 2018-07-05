@@ -7,7 +7,7 @@ These colour maps have been reformatted into the [JASC Palette format](http://li
 # Using the colour maps
 It is simple to import external palettes into Origin.
 
-First, download the [`palettes.zip`](../blob/master/palettes.zip) file and extract it.
+First, download the [`palettes.zip`](blob/master/palettes.zip) file and extract it.
 You can then [follow the instructions](https://www.originlab.com/doc/Quick-Help/Use-External-Color-Palette) on OriginLab's website for how to include them in Origin.
 
 # What are pereceptually uniform colour maps?
