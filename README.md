@@ -13,7 +13,7 @@ You can then [follow the instructions](https://www.originlab.com/doc/Quick-Help/
 ## What are pereceptually uniform colour maps?
 Perceptually uniform colour maps are ways of mapping a numerical value onto a series of colours in a way
 that tries to ensure that the numerical difference between values matches the 'perceptual distance' between
-the colours they are mapped on to. This ensures to spot patterns in data, and, perhaps more importantly, not
+the colours they are mapped on to. This makes it easier to spot patterns in data, and, perhaps more importantly, not
 be tricked by the colour used to represent the data.
 
 You can learn more about the utility of perceptually uniform colour maps [here](https://bids.github.io/colormap/).
